@@ -1,0 +1,3 @@
+#só o nome de cada biblioteca
+requests
+json
